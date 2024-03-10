@@ -5,9 +5,9 @@
 - ⚙️ Tech Enthusiast
 - ⚡ Fun fact: Time goes faster at the top of the building than at the bottom. !!
 
-### My Stats :<br/>
+### :fire: My Stats :<br/>
 <img src="https://komarev.com/ghpvc/?username=yogendrabaskota&style=flat-square&color=blue" alt=""/><br/>
-![Yogendra Baskota's Github stats](https://github-readme-stats.vercel.app/api?username=yogendrabaskota&show_icons=true&theme=radical&count_private=true)
+![Yogendra's Github stats](https://github-readme-stats.vercel.app/api?username=yogendrabaskota&show_icons=true&theme=radical&count_private=true)
 
 
 
