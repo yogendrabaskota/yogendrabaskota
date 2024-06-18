@@ -3,7 +3,7 @@
 Hi there, I'm Yogendra Baskota👋 
 </h3> 
 
-Fun fact: Time goes faster at the top of the building than at the bottom. !!
+Fun fact: Time goes faster at the top of the building than at the bottom.!!
 
 ### 🤝 Connect with me : 
 
